@@ -1,7 +1,7 @@
 
 > **The document uses Google Translate**
 
-## Getting Started
+## Getting Started!!
 
 ### NPM
 
